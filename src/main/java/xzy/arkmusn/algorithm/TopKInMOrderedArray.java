@@ -15,7 +15,7 @@ import java.util.stream.IntStream;
  * T(n) = O(logN)<br/>
  * S(n) = O(N)
  *
- * @author Eric.Chan
+ * @author Arkmusn
  * @since 1.0
  */
 public class TopKInMOrderedArray {
